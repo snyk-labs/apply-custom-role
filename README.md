@@ -118,3 +118,5 @@ Working on org: ato22-0e7ee2279f08b173dc3d50de7de0b4dd
 Working on org: ato22-1032d95a964d2ee85b9b7631d5f56f9b
 ...
 ```
+
+**NOTE**: You can revert these users back to their original `Org Collaborator` role by re-running the script with the Role Id for `Org Collaborator`.
