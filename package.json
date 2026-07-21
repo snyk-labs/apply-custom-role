@@ -9,7 +9,7 @@
   "author": "Micah Silverman",
   "license": "ISC",
   "dependencies": {
-    "axios": "^1.4.0",
+    "axios": "^1.18.0",
     "axios-retry": "^3.5.0",
     "commander": "^11.0.0"
   }
